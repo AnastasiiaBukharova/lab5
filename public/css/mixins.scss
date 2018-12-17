@@ -1,0 +1,32 @@
+@mixin paddingsize
+{
+  padding : 50px 0;
+}
+
+@mixin mix1
+{
+  border-radius: 1.0rem;
+  float:left;
+  width:100%;
+  @include paddingsize;
+}
+
+@mixin mix2
+{
+  border-radius: 0 10px 10px 0; 
+  padding:0;
+}
+
+@mixin mix3
+{
+  border-radius: 1.5rem;
+  min-height: 25rem;
+}
+
+@mixin mix4
+{
+  padding-right: 30px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}

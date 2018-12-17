@@ -1,0 +1,56 @@
+@import "mixins.scss";
+
+.login-block
+{
+	background-image: url("../img/Form-bg-me.jpg");
+	background-size: cover;
+	@include mix1;
+
+}
+.banner-sec
+{
+	background-size:cover; 
+	@include mix2;
+}
+.login-sec
+{
+	padding: 50px 30px; 
+	position:relative; 	
+	background-color: #fff; 
+	border-radius: 1.0rem;
+
+	.copy-text
+	{
+		font-size:13px; 
+		text-align:center;
+	}
+
+	h2
+	{
+		margin-bottom:30px; 
+		font-weight:800; 
+		font-size:30px; 
+		color: #DE6262;
+	}
+}
+
+.my-button { width: 100%; }
+
+.myform
+{
+	@include mix3;
+}
+@media (min-width: 992px) {
+  .my-modal {
+  	max-width: 1000px;
+  }
+}
+.mycontainer
+{
+	width: 100%;
+  	@include mix4;
+}
+
+
+
+

@@ -1,0 +1,20 @@
+.btn-primary-my, .btn-primary-my:hover {
+  color: #fff; }
+ 
+.main-frame {
+  height: 100%;
+  background-image: url("../img/main_frame_v.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.bg-dark-my {
+  background-color: #341b46 !important; }
+
+.btn-primary-my {
+  background-color: #8528b1;
+  border-color: #8528b1; }
+
+.btn-primary-my:hover {
+  background-color: #c527e2;
+  border-color: #c527e2; }
+

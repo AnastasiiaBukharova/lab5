@@ -1,0 +1,45 @@
+.login-block {
+  background-image: url("../img/Form-bg-me.jpg");
+  background-size: cover;
+  border-radius: 1.0rem;
+  float: left;
+  width: 100%;
+  padding: 50px 0; }
+
+.banner-sec {
+  background-size: cover;
+  border-radius: 0 10px 10px 0;
+  padding: 0; }
+
+.login-sec {
+  padding: 50px 30px;
+  position: relative;
+  background-color: #fff;
+  border-radius: 1.0rem; }
+  .login-sec .copy-text {
+    font-size: 13px;
+    text-align: center; }
+  .login-sec h2 {
+    margin-bottom: 30px;
+    font-weight: 800;
+    font-size: 30px;
+    color: #DE6262; }
+
+.my-button {
+  width: 100%; }
+
+.myform {
+  border-radius: 1.5rem;
+  min-height: 25rem; }
+
+@media (min-width: 992px) {
+  .my-modal {
+    max-width: 1000px; } }
+.mycontainer {
+  width: 100%;
+  padding-right: 30px;
+  padding-left: 50px;
+  margin-right: auto;
+  margin-left: auto; }
+
+/*# sourceMappingURL=myform.css.map */

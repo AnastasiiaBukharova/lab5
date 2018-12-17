@@ -1,0 +1,21 @@
+ html, body {
+      margin: 0;
+      padding: 0;
+      background-color: #341b46;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .slider {
+        width: 50%;
+        margin: 100px auto;
+    }
+
+    .slider img{
+        width: 10rem;
+        height: 15rem;
+    }
+
+   

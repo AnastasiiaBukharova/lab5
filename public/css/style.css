@@ -1,0 +1,76 @@
+.btn-primary-my, .btn-primary-my:hover {
+  color: #fff; }
+
+.main-frame {
+  height: 100%;
+  background-image: url("../img/main_frame.jpg");
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.bg-dark-my {
+  background-color: #222324 !important; }
+
+.btn-primary-my {
+  background-color: #007bff;
+  border-color: #007bff; }
+
+.btn-primary-my:hover {
+  background-color: #0069d9;
+  border-color: #0069d9; }
+
+.my-text-size {
+  font-size: 1.5rem; }
+
+.text-gray {
+  color: rgba(255, 255, 255, 0.5); }
+
+.hr-my {
+  border-top: 1px solid rgba(255, 255, 255, 0.5); }
+
+.carousel-dark {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2.0rem;
+  padding: 1rem; }
+
+.my-btn {
+  width: 100%;
+  font-size: 1.5rem; }
+
+.my-card {
+  margin-bottom: 1rem; }
+
+.my-footer {
+  margin-top: 0.75rem; }
+
+.modal-window
+{
+  display: none;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 1.0rem; 
+  padding: 1.0rem;
+}
+
+.my-text-size {
+  font-size: 1.5rem; }
+
+.text-gray {
+  color: rgba(255, 255, 255, 0.5); }
+
+.hr-my {
+  border-top: 1px solid rgba(255, 255, 255, 0.5); }
+
+.carousel-dark {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 2.0rem;
+  padding: 1rem; }
+
+.my-btn {
+  width: 100%;
+  font-size: 1.5rem; }
+
+.my-card {
+  margin-bottom: 1rem; }
+
+.my-footer {
+  margin-top: 0.75rem; }
+/*# sourceMappingURL=style.css.map */
